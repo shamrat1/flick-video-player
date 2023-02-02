@@ -97,12 +97,12 @@ class FlickPortraitControls extends StatelessWidget {
                       FlickSubtitleToggle(
                         size: iconSize,
                       ),
-                      SizedBox(
-                        width: iconSize / 2,
-                      ),
-                      FlickFullScreenToggle(
-                        size: iconSize,
-                      ),
+                      // SizedBox(
+                      //   width: iconSize / 2,
+                      // ),
+                      // FlickFullScreenToggle(
+                      //   size: iconSize,
+                      // ),
                     ],
                   ),
                 ],
